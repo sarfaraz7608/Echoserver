@@ -60,11 +60,11 @@ print(f"Received {data!r}")
 ## OUTPUT:
 echo_server.py
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 echo_client.py
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 ## RESULT:
 The program is executed successfully
