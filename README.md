@@ -9,11 +9,11 @@ To develop a simple webserver to serve html programming pages.
 
 ### Step 1:
 
-Design of echo server and client using python socket
+Design of echo server and client using python socket     
 
 ### Step 2:
 
-Implementation using Python code
+Implementation using Python code   
 
 ### Step 3:
 
@@ -60,11 +60,11 @@ print(f"Received {data!r}")
 ## OUTPUT:
 echo_server.py
 
-![alt text](<Screenshot 2026-10-30 225648.png>)
+![alt text](image.png)
 
 echo_client.py
 
-![alt text](<Screenshot 2026-10-30 225701.png>)
+![alt text](image-1.png)
 
 ## RESULT:
 The program is executed successfully
